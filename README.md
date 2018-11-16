@@ -14,5 +14,5 @@ This repo contains:
   (this last step would go away if the local extension became a proper package)
 - A [panel](https://github.com/pyviz/panel) based ``app.ipynb`` used to serve both notebook and app based deployments
 
-![dashboard screenshot](https://raw.githubusercontent.com/panel-demos/bird_migration/master/assets/dashboard.png)
+![dashboard screenshot](https://raw.githubusercontent.com/panel-demos/clifford-interact/master/assets/dashboard.png)
 
