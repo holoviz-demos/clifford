@@ -1,7 +1,8 @@
 dependencies:
   - nbserverproxy
-  - pyviz::param=1.8.1
-  - pyviz::pyviz_comms=0.6.0
+  - pyviz::param=1.9.0
+  - pyviz::pyviz_comms=0.7.2
   - pyviz::datashader
   - bokeh::bokeh
-  - pyviz/label/dev::panel=0.2.0a5
+  - pyviz::panel=0.5.1
+  - tornado<6  
