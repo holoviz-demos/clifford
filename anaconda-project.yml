@@ -47,5 +47,3 @@ env_specs:
     packages:
     - nbsmoke ==0.2.8
     - pytest ==4.4.1
-skip_imports:
-  environment: 5b1139e1e2f51e2fc4e7e35a4f4fb10de5a25f1f
