@@ -1,5 +1,4 @@
-# After installing anaconda-project, this project can be reproduced using:
-#    anaconda-project run
+# To reproduce: install 'anaconda-project', then 'anaconda-project run'
 name: clifford-interact
 description: Clifford attractors with Datashader, Panel, and interact
 maintainers:
