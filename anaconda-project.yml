@@ -1,5 +1,5 @@
 # To reproduce: install 'anaconda-project', then 'anaconda-project run'
-name: clifford-interact
+name: clifford
 description: Clifford attractors with Datashader, Panel, and interact
 maintainers:
   - jbednar
